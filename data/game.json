@@ -1,0 +1,8 @@
+{
+  "game": "KirbyForgottenLand_FlashFishing",
+  "player": "Pixiuchu",
+  "filler_item_name": "tin of fish",
+  "starting_items": [
+    {"items": ["Everbay Coast Access"], "random": 1}
+  ]
+}
