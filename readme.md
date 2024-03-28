@@ -1,4 +1,5 @@
 ### A save file with every single evolution for every single copy ability is absolutely mandatory for this Manual.
+Find the apworld and yaml in Releases: https://github.com/Pixiuchu/Manual_KirbyForgottenLand_FlashFishing_Pixiuchu/releases
 
 **Locations:**
 - Flash Fishing: fishing up different fishes (or performing different actions), each as individual checks
