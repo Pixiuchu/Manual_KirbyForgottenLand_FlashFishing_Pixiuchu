@@ -19,7 +19,7 @@
   {"name": "Drill", "category": ["Copy Abilities"], "progression": true},
   {"name": "Sleep", "category": ["Copy Abilities"], "useful": true},
   {"name": "Needle", "category": ["Copy Abilities"], "progression": true},
-  {"name": "Ice", "category": ["Copy Abilities"], "useful": true},
+  {"name": "Ice", "category": ["Copy Abilities"], "progression": true},
   {"name": "Arch Mouth", "category": ["Mouthful Mode"], "progression": true},
   {"name": "Car Mouth", "category": ["Mouthful Mode"], "progression": true},
   {"name": "Coaster Mouth", "category": ["Mouthful Mode"], "progression": true},
