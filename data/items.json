@@ -17,7 +17,7 @@
   {"name": "Bomb", "category": ["Copy Abilities"], "progression": true},
   {"name": "Tornado", "category": ["Copy Abilities"], "progression": true},
   {"name": "Drill", "category": ["Copy Abilities"], "progression": true},
-  {"name": "Sleep", "category": ["Copy Abilities"], "useful": true},
+  {"name": "Sleep", "category": ["Copy Abilities"], "progression": true},
   {"name": "Needle", "category": ["Copy Abilities"], "progression": true},
   {"name": "Ice", "category": ["Copy Abilities"], "progression": true},
   {"name": "Arch Mouth", "category": ["Mouthful Mode"], "progression": true},
