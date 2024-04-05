@@ -4,6 +4,7 @@ Find the apworld and yaml in Releases: https://github.com/Pixiuchu/Manual_KirbyF
 **Locations:**
 - Flash Fishing: fishing up different fishes (or performing different actions), each as individual checks
 - Defeating enemies: find and defeat enemies inside of levels
+- Defeating every variant of King Dedede and Fleurina
 - Completing sea-based missions in levels
 
 
