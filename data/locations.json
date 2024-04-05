@@ -39,6 +39,7 @@
   {"name": "2-T Drill Treasure - Defeat Glunk", "category": ["Everbay Coast"], "requires": "|Everbay Coast Access| AND |Drill|"},
   {"name": "3-1 Mission - Help the lost ducklings find their mama", "category": ["Wondaria Remains"], "requires": "|Wondaria Remains Access|"},
   {"name": "3-4 Mission - Help the lost ducklings find their mama", "category": ["Wondaria Remains"], "requires": "|Wondaria Remains Access|"},
+  {"name": "3-T Ring Mouth Treasure - Defeat Glunk", "category": ["Wondaria Remains"], "requires": "|Wondaria Remains Access| AND |Ring Mouth|"},
   {"name": "3-T Needle Treasure - Defeat Glunk", "category": ["Wondaria Remains"], "requires": "|Wondaria Remains Access| AND |Needle|"},
   {"name": "3-T Fleur Tornado Treasure - Defeat Balloon-Meister", "category": ["Wondaria Remains"], "requires": "|Wondaria Remains Access| AND |Tornado|"},
   {"name": "4-1 Defeat Corori", "category": ["Winter Horns"], "requires": "|Winter Horns Access|"},
